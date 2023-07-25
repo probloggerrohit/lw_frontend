@@ -1,0 +1,46 @@
+input.searchh.input-simple {
+    padding: 10px;
+    max-width: 400px;
+}
+.filter_fm select {
+    padding: 13px;
+    background: #fff;
+    font-family: "Poppins", sans-serif;
+}
+
+.container.dj.mx-auto.px-4.h-full.filter_fm input {
+    height: auto;
+}
+
+.filter_fm {
+    margin-bottom: 20px;
+}
+
+button.button.rd_btn {
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 10px;
+    background: #13C4CC;
+    border-color: #13C4CC;
+    color: #fff;
+    outline: 0;
+}
+
+button.button.rd_btn:hover {
+    background: #fff;
+    color: #13C4CC;
+}
+form.filter_fom input, form.filter_fom select {
+    background: #f2f2f2;
+    border: 1px solid #ccc;
+    outline: 0;
+}
+form.filter_fom {
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.user-role-instructor.parent-pageid-5953 .headr_main {
+    display: none;
+}
